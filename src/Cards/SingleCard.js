@@ -14,7 +14,7 @@ const SingleCard = props => {
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident illo
                  debitis soluta maiores dicta, optio dolore adipisci labore magni animi?
             </p>
-            <a href="#" className='btn btn-outline-success'>READ MORE</a>
+            <a href="#" className='btn btn-outline-primary'>READ MORE</a>
         </div>
     </div>
   )
